@@ -2,7 +2,14 @@
 #### Web Design & Developer
 I am interested to work hard for success and to solve problems in an effective manner by being a useful part in a well-reputed organization and to pursue the opportunity to utilize my knowledge and potential to the fullest to enhance professional skills, knowledge and experience about the commercial world in a dynamic and fast workplace.
 
-Skills:  HTML / CSS/JavaScript/PHP/Laravel/Codeigniter/Wordpress
+# Skills:  
+☞ HTML  
+☞ CSS
+☞ JavaScript
+☞ PHP
+☞ Laravel
+☞ Codeigniter
+☞ Wordpress
 
 - 🔭 I’m currently working on Cyberdyne Technology Ltd. 
 - 🌱 I’m currently learning WordPress 
