@@ -11,10 +11,10 @@ I am interested to work hard for success and to solve problems in an effective m
 ☞ Codeigniter </br>
 ☞ Wordpress </br>
 
-- 🔭 I’m currently working on Cyberdyne Technology Ltd. 
+- 🔭 I’m currently working on # Cyberdyne Technology Ltd. 
 - 🌱 I’m currently learning WordPress 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+- 👯 I’m looking to collaborate on # Github 
+- 💬 Ask me about # Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahimar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahimarf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdabdurrahimfaisal)  
