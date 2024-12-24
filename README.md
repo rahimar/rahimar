@@ -4,12 +4,12 @@ I am interested to work hard for success and to solve problems in an effective m
 
 # Skills:  
 ☞ HTML  
-☞ CSS
-☞ JavaScript
-☞ PHP
-☞ Laravel
-☞ Codeigniter
-☞ Wordpress
+☞ CSS 
+☞ JavaScript 
+☞ PHP 
+☞ Laravel  
+☞ Codeigniter 
+☞ Wordpress 
 
 - 🔭 I’m currently working on Cyberdyne Technology Ltd. 
 - 🌱 I’m currently learning WordPress 
